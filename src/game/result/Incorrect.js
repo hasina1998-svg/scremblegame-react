@@ -12,6 +12,7 @@ const Incorrect = () => {
   }, []);
 
   return (
+    //shows you are incorrect
     <div className="gameArea1">
       <h3>You are incorrect</h3>
     </div>
