@@ -9,7 +9,7 @@ const Game = () => {
   const [input, setInput] = useState();
   const [show, setShow] = useState(false);
   const [msg, setMsg] = useState("");
-
+//list of names
   const sWord = [
     "hasina",
     "sanjeev",
